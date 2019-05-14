@@ -1,2 +1,1 @@
-基于create-react-app脚手架
-todolist例子
+create-react-app脚手架，基于react的简单小例子todolist
